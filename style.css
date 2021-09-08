@@ -1,0 +1,13 @@
+.outer{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    justify-content: center;
+}
+.inner{
+    background-color: blueviolet;
+    border: blue 37.5px solid;
+    width: 75px;
+    height: 75px;
+}
+
